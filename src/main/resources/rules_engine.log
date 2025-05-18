@@ -1,0 +1,6 @@
+2025-05-18T15:32:49.458693300Z - Application started
+2025-05-18T15:32:49.721056200Z - Starting order processing
+2025-05-18T15:32:49.952271Z - Writing results to CSV
+2025-05-18T15:32:49.976957300Z - Writing results to database
+2025-05-18T15:32:49.976957300Z - Starting database write operation
+2025-05-18T15:32:49.993853100Z - Processing failed: No suitable driver found for jdbc:postgresql://localhost:5432/discounts_db
