@@ -4,3 +4,22 @@
 2025-05-18T15:32:49.976957300Z - Writing results to database
 2025-05-18T15:32:49.976957300Z - Starting database write operation
 2025-05-18T15:32:49.993853100Z - Processing failed: No suitable driver found for jdbc:postgresql://localhost:5432/discounts_db
+2025-05-18T15:47:57.124270300Z - Application started
+2025-05-18T15:47:57.277629800Z - Starting order processing
+2025-05-18T15:47:57.529609900Z - Writing results to CSV
+2025-05-18T15:47:57.544613300Z - Writing results to database
+2025-05-18T15:47:57.545614300Z - Starting database write operation
+2025-05-18T15:47:57.558474900Z - Processing failed: No suitable driver found for jdbc:postgresql://localhost:5432/discounts_db
+2025-05-18T15:54:50.502880Z - Application started
+2025-05-18T15:54:50.641122Z - Starting order processing
+2025-05-18T15:54:50.852272900Z - Writing results to CSV
+2025-05-18T15:54:50.868272900Z - Writing results to database
+2025-05-18T15:54:50.868272900Z - Starting database write operation
+2025-05-18T15:54:51.329128Z - Successfully wrote 1000 records to database
+2025-05-18T15:54:51.330454Z - Processing completed successfully
+2025-05-18T15:57:22.971816Z - Application started
+2025-05-18T15:57:23.148416800Z - Starting order processing
+2025-05-18T15:57:23.317821900Z - Writing results to CSV
+2025-05-18T15:57:23.331820500Z - Writing results to database
+2025-05-18T15:57:23.331820500Z - Starting database write operation
+2025-05-18T15:57:23.397775800Z - Processing failed: Connection to localhost:5432 refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.

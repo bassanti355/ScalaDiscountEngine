@@ -4,5 +4,6 @@ ThisBuild / scalaVersion := "3.3.6"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "ScalaDiscountEngine"
-  )
+    name := "ScalaDiscountEngine",
+    libraryDependencies += "org.postgresql" % "postgresql" % "42.7.3"
+)
